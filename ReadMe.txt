@@ -6,4 +6,6 @@ http://web.archive.org/web/20161007022856/http://domiogrod.zumi.pl/#
 
 http://web.archive.org/web/20170630013145/http://liga-heineken.onet.pl/
 
+http://web.archive.org/web/20180104021103/http://turniejmiast.zumi.pl/
+
 https://app.spectator.earth/404
